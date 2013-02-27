@@ -1,3 +1,6 @@
 #
 # system.prop for SGHI927
 #
+ro.secure=0
+ro.debuggable=1
+persist.sys.usbcomposition.id=mass
